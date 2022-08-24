@@ -4,5 +4,5 @@ This repository contains high level programming projects carried out at the Holb
 
 | Projects | Description |
 |--------- | ----------- |
-| (0x00-python-hello_worl)] | An introduction to python programming|
+| (0x00-python-hello_world) | An introduction to python programming|
 | (0x01-python-if_else_loops_functions) | Introduction to if/else statements, loops and functions |
