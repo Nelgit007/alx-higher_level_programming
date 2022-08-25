@@ -1,5 +1,5 @@
 # Python - If/else, loops, functions
-A pytho project carried out during **Full Stack Software Engineering** studies at **ALX**. It aims to learn about if/else statements, loops, range and functions in **Python**.
+A python project carried out during **Full Stack Software Engineering** studies at **ALX**. It aims to teach about scripting using, if/else statements, loops, range and functions in **Python**.
 
 ## Technologies
 * Shell Scripts are written in Bash 
@@ -21,3 +21,4 @@ A pytho project carried out during **Full Stack Software Engineering** studies a
 | `8-uppercase.py` | Prints a string in uppercase |
 | `9-print_last_digit.py` | Prints the last digit of a passed number |
 | `10-add.py` | Adds two integers and returns the result |
+| `13-insert_number.c` | Inserts a node in a linked list according to a given index |
